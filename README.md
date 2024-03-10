@@ -21,8 +21,7 @@ sudo apt update
 # Install with:
 sudo apt-get install actionai
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="sudo add-apt-repository ppa:smellslikeml/ppa
-sudo apt update
+    
 
 # Install with:
 sudo apt-get install actionai" tabindex="0" role="button">
